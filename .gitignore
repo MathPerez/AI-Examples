@@ -156,6 +156,8 @@ cython_debug/
 
 /database
 predictions_arvore_decisoes.csv
+predictions_redes_neurais.csv
+predictions_regressao_linear.csv
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
